@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals_Hurst_Cooper", "Conditionals_Hurst_Cooper\Conditionals_Hurst_Cooper.csproj", "{D3D994B6-B764-41F8-BF3F-483F3081D86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D994B6-B764-41F8-BF3F-483F3081D86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D994B6-B764-41F8-BF3F-483F3081D86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D994B6-B764-41F8-BF3F-483F3081D86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D994B6-B764-41F8-BF3F-483F3081D86D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798611D4-F5DE-4028-B7B6-1F997AA11B95}
+	EndGlobalSection
+EndGlobal
